@@ -34,27 +34,6 @@ Open [http://localhost:3000](http://localhost:3000) — sign in with the seeded 
 
 ---
 
-## Tech stack
-
-| Layer | Library |
-|---|---|
-| Framework | Next.js 16 (App Router) |
-| Runtime | React 19 |
-| Language | TypeScript 5 |
-| Styling | Tailwind CSS 4 |
-| Auth | NextAuth.js v5 |
-| State | Zustand 5 |
-| Data | SWR 2 + Server Actions |
-| Forms | React Hook Form + Zod |
-| Tables | TanStack React Table 8 |
-| Charts | Recharts 3 |
-| Editor | TipTap |
-| Animation | Framer Motion 12 |
-| DnD | DND Kit 6 |
-| i18n | next-intl |
-| Date | dayjs |
-
----
 
 ## AI coding tools
 
@@ -130,6 +109,22 @@ Available tools include `search_components`, `get_component`, `list_all_hooks`, 
 **Lite covers solo and side-project work. Pro is for agencies and teams that need the Vite or JS variants.**
 
 [Get Eyris Pro on ThemeForest →](https://themeforest.net/item/eyris-tailwind-admin-ui-kit/62526728)
+
+---
+
+## Tech stack
+
+- Next.js 16 (App Router) 
+- React 19 
+- TypeScript 5 
+- Tailwind CSS 4 
+- NextAuth.js 
+- Zustand |
+- React Hook Form + Zod 
+- TanStack React Table 
+- Charts | Recharts 
+- Framer Motion
+- next-intl 
 
 ---
 
