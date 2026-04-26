@@ -1,6 +1,6 @@
 ![Eyris Lite — open-source React & Next.js admin template](public/img/readme/hero.png)
 
-## Eyris Lite — React & Next.js Admin Template
+# Eyris Lite — React & Next.js Admin Template
 
 Eyris Lite is a free Next.js 16 admin dashboard template of **[Eyris](https://themeforest.net/item/eyris-tailwind-admin-ui-kit/62526728)**, built with React 19, Tailwind CSS 4, and TypeScript. Skip the boilerplate: auth, dark mode, and a working dashboard are wired up.
 
