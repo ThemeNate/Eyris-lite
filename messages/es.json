@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "apps": "Aplicaciones",
+        "dashboard": "Panel de Control",
+        "customers": "Clientes",
+        "customersList": "Lista de Clientes",
+        "details": "Detalles del Cliente",
+        "settings": "Configuración",
+        "uiComponents": "Componentes de UI",
+        "base": "Base",
+        "advanced": "Avanzado"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "apps": "应用",
+        "dashboard": "仪表板",
+        "customers": "客户",
+        "customersList": "客户列表",
+        "details": "客户详情",
+        "settings": "设置",
+        "uiComponents": "UI 组件",
+        "base": "基础",
+        "advanced": "高级"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "apps": "Apps",
+        "dashboard": "Dashboard",
+        "customers": "Customers",
+        "customersList": "Customers List",
+        "details": "Customer Details",
+        "settings": "Settings",
+        "uiComponents": "UI Components",
+        "base": "Base",
+        "advanced": "Advanced"
+    }
+}
